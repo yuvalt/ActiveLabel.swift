@@ -26,6 +26,9 @@ label.handleHashtagTap { hashtag in
   print("Success. You just tapped the \(hashtag) hashtag")
 }
 ```
+## Interface Builder
+
+To repalce an existing Label in Interface Builder, make sure you set the Class Name and Module to "ActiveLabel" in the Identity Inspector.
 
 ## API
 
